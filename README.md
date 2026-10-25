@@ -124,6 +124,8 @@ mahi = {
   </a>
 </p>
 
+<h2 align="left">🏆 GitHub Trophies</h2>
+
 <p align="center">
   <img src="https://trophy.ryglcloud.net/?username=MahiShukla-ms&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Mahi Shukla's GitHub Trophies" />
 </p>
