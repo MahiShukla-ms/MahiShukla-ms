@@ -119,8 +119,9 @@ mahi = {
 <h2 align="left">📊 GitHub Contribution Graph</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MahiShukla-ms&theme=react-dark&hide_border=true"
-       alt="GitHub Contribution Graph" width="100%">
+ <a href="https://github.com/MahiShukla-ms">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=MahiShukla-ms&theme=react-dark&hide_border=true" width="100%" alt="GitHub Contribution Graph" />
+  </a>
 </p>
 
 <p align="center">
